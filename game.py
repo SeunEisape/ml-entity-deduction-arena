@@ -46,6 +46,8 @@ class Q20Game:
             f"Your task is to ask a series of questions to deduce the entity "
             f"that I'm thinking of with as few queries as possible. "
             f"Only ask questions that can be answered by 'yes', 'no' or 'maybe'. "
+            # ADDED By Seun
+            f"Only ask a single question at a time. "
             f"Do not ask for hint. Make your question brief with no linebreaker. "
             f"Now start asking a question."
         )
